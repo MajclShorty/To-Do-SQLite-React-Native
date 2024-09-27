@@ -1,1 +1,1 @@
-# To-Do-SQLite-React-Native
+# Zde naleznete hlavní soubory aplice ToDo (SQLite)
